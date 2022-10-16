@@ -1,0 +1,231 @@
+.dormir{
+    width: 4vw;
+    display: inline-block;
+    padding: 0;
+    position: relative;
+}
+
+.quiero{
+    width: 3vw;
+}
+
+
+
+
+.queacabadepasar{
+    display: inline-flex;
+    width: 5vw;
+    border: 1px solid black;
+    padding: 13px 0 13px 0;
+    border-radius: 25px;
+    position: relative;
+    background-color: black;
+    color: white;
+    text-align: center;
+    justify-content: center;
+    bottom: 35px;
+    left: 50px;
+}
+
+.queque{
+    display: inline-flex;
+    width: 5vw;
+    padding: 13px 0 0 0;
+    border-radius: 15px;
+    position: relative;
+    margin-left: 10px;
+    text-align: center;
+    justify-content: center;
+    bottom: 40px;
+    left: 50px;
+}
+
+.milhoja{
+    display: inline-flex;
+    width: 5vw;
+    border-radius: 15px;
+    position: relative;
+    margin-left: 268px;
+    justify-content: center;
+    grid-gap: 15px;
+    bottom: 35px;
+    left: 50px;
+}
+
+.mouse{
+    display: grid;
+    width: 1600px;
+    height: 40px;
+    position: relative;
+    margin-left: 10px;
+    border-radius: 20px;
+    grid-template-columns: 645px;
+    grid-template-rows: 40px;
+    grid-gap: 15px;
+
+}
+.cable{
+    display: inline-block;
+    width: 2vw;
+    position: relative;
+    left: 750px;
+    bottom: 50px;
+}
+
+.ringring{
+    display: inline-block;
+    width: 48px;
+    position: relative;
+    left: 800px;
+    bottom: 105px;
+}
+
+.lol{
+    left: 900px;
+    display: inline-block;
+    width: 48px;
+    position: relative;
+    bottom: 170px;
+
+}
+.pipipi{
+    max-width: 800px;
+    padding: 0rem 400px 400px 0px;
+    margin: 0 auto;
+    display: grid;
+    grid-template-columns: 180px 200px 200px 200px 200px 200px 200px;
+    grid-template-rows: 200px 300px 300px 300px 300px 300px 300px;
+    grid-gap: 10px;
+    text-align: center;
+}
+
+
+    img{
+        width: 100%;
+        height: 100%;
+        object-fit: cover;
+        border-radius: 10px;
+    }
+
+.a{
+    grid-row: 1;
+    grid-column: 1;
+    height: 180px;
+    margin-bottom: 10px;
+}
+
+.b{
+    grid-row: 1 / 2;
+    grid-column: 2;
+    margin-left: 5px;
+    width: 200px;
+    margin-bottom: 10px;
+}
+
+.c{
+    grid-row: 1;
+    grid-column: 3;
+    margin-left: 10px;
+    margin-bottom: 5px;
+}
+
+.d{
+    grid-row: 1;
+    grid-column: 4;
+    height: 180px;
+    margin-left: 10px;
+    margin-bottom: 10px;
+}
+
+.g{
+    grid-row: 1;
+    grid-column: 5;
+    margin-left: 10px;
+    margin-bottom: 10px;
+}
+
+.h{
+    grid-row: 1;
+    grid-column: 6;
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-bottom: 10px;
+    height: 150px;
+}
+
+.i{
+    grid-row: 1/ 2;
+    grid-column: 7;
+    margin-right: 10px;
+}
+
+.j{
+    grid-row: 2 / 4;
+    grid-column: 1 / 2;
+}
+
+.k{
+    grid-row: 2/ 2;
+    grid-column: 5/ 5;
+    left: 800px;
+}
+
+.pan{
+    grid-row: 1/ 3;
+    grid-column: 2 / 3;
+    top: 100px;
+    width: 209px;
+}
+.cumpleaños{
+    grid-row: 3 / 4;
+    grid-column: 1 / 2;
+}
+
+.huevo{
+    grid-row: 3/5;
+    grid-column:3 ;
+    width: 200px;
+    
+}
+
+.carne{
+    margin-top: 1px;
+    grid-row: 3;
+    grid-column: 6;
+}
+
+.ñ{
+    margin-top: 1px;
+    grid-row: 2;
+    grid-column: 6 / 8;
+    margin-right: 30px;
+}
+
+.minecraft{
+    margin-top: 1px;
+    grid-row: 3;
+    grid-column: 2;
+}
+
+.terraria{
+   
+    margin-top: 1px;
+    grid-row: 1 / 3;
+    grid-column: 4;
+    
+}
+
+.que{
+    margin-top: 1px;
+    grid-row: 3;
+    grid-column: 4;
+    margin-left: 11px;
+}
+.wop{
+    margin-top: 1px;
+    grid-row: 3;
+    grid-column: 5;
+    margin-left: 30px;
+    height: 400px;
+
+}
